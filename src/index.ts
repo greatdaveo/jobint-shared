@@ -95,3 +95,4 @@ export {
 
 export { verifyGatewayRequest } from './gateway-middleware';
 
+export { winstonLogger } from './logger';
