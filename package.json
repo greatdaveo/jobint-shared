@@ -19,7 +19,7 @@
   "author": "David Olowomeye Oluwatimilehin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/greatdaveo/JobInt"
+    "url": "git+https://github.com/greatdaveo/jobint-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
